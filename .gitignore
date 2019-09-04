@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.cache
+.pytest_cache
+.tox
+.DS_Store
+*.DS_Store
+/.vscode
+/tmp
+models/
+checkpoint/
+.ipynb_checkpoints/
