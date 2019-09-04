@@ -3,4 +3,4 @@ chart_studio
 ipywidgets
 pandas
 plotly
-
+pyarrow
